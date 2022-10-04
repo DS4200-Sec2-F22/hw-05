@@ -64,10 +64,6 @@ The purpose of this assignment is to practice creating interactive visualization
 
 * Tips and Tricks: https://leanpub.com/D3-Tips-and-Tricks/read (written for v3 but well written)
 
-## Data Citations 
-
-* Visualizations: https://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/ 
-
 ## Submission
 
 * Be sure to push all changes to your repo and follow all instructions above. 
